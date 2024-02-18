@@ -66,10 +66,10 @@ editor = u'Andreas Rossberg (editor)'
 logo = 'static/webassembly.png'
 
 # The name of the GitHub repository this resides in
-repo = 'gc'
+repo = 'frozen-values'
 
 # The name of the proposal it represents, if any
-proposal = 'tail calls + function references + gc'
+proposal = 'tail calls + function references + gc + frozen-values'
 
 # The draft version string (clear out for release cuts)
 draft = ' (Draft ' + date.today().strftime("%Y-%m-%d") + ')'
